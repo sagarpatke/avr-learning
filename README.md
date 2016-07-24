@@ -14,7 +14,7 @@ All of my effort learning Microcontroller programming is documented in this repo
 
 ## Setup Dev Environment:
 ```shell
-$ sudo apt-get install avr-gcc avrdude avr-libc
+$ sudo apt-get install avr-gcc avrdude avr-libc make
 ```
 
 ## Configure Microcontroller FUSE
